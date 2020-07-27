@@ -1,5 +1,5 @@
 # basic_flaskapp_container
-# SistemasDistribuidos
+# Base de datos Distribuidos
 En la materia de Bases de Datos distribuidas se realizo una practica donde se utilizo el lenguaje de programacion de Python con flask y para la base de datos mongodb.
 # Herramientas
 1.-Para la ejecucion del proyecto necesitaremos un editor de texto
